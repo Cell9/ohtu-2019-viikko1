@@ -1,0 +1,10 @@
+# Paatteet
+
+*.tmp
+
+
+
+# Hakemistot
+
+build/
+.gradle/
