@@ -4,3 +4,6 @@
 
 
 [![codecov](https://codecov.io/gh/Cell9/ohtu-2019-viikko1/branch/master/graph/badge.svg)](https://codecov.io/gh/Cell9/ohtu-2019-viikko1)
+
+
+https://github.com/Cell9/ohtu-tehtavat
